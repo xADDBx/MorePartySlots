@@ -1,0 +1,12 @@
+﻿{
+  "Id": "MorePartySlots",
+  "DisplayName": "MorePartySlots",
+  "Author": "ADDB",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.27.11",
+  "Requirements": [],
+  "AssemblyName": "MorePartySlots.dll",
+  "EntryMethod": "MorePartySlots.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}
