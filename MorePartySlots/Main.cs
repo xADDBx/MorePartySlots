@@ -49,8 +49,8 @@ public static class Main {
             if (int.TryParse(text, out var tmp)) {
                 settings.Slots = tmp;
                 OnSaveGUI(modEntry);
-                HarmonyInstance.UnpatchAll();
-                HarmonyInstance.PatchAll();
+                HarmonyInstance.UnpatchAll(modEntry.Info.Id);
+                HarmonyInstance.PatchAll(Assembly.GetExecutingAssembly());
             }
         }
     }
