@@ -7,6 +7,6 @@
   "Requirements": [],
   "AssemblyName": "MorePartySlots.dll",
   "EntryMethod": "MorePartySlots.Main.Load",
-  "HomePage": "https://raw.githubusercontent.com/xADDBx/MorePartySlots/master/Repository.json",
-  "Repository": "https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/694"
+  "HomePage": "https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/694",
+  "Repository": "https://raw.githubusercontent.com/xADDBx/MorePartySlots/master/Repository.json"
 }
